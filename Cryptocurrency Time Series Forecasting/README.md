@@ -1,1 +1,1 @@
-In this project, I am able to predict the crytocurrency prices for the next 30 days by using Machine Learning & Deep Learning Techniques and suggest the best model to be used for predicting them using RMSE, MAE & R^2 score.
+In this project, I am able to predict the crytocurrency prices for the next 30 days by using Machine Learning & Deep Learning Techniques and suggest the best model to be used for predicting them using RMSE, MAE & R2 score.
